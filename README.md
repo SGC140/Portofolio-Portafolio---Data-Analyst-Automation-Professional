@@ -169,9 +169,7 @@ Fecha_publicacion = dateparser.parse(
 
 En el ámbito del marketing digital, la toma de decisiones basada en intuición representa un riesgo operativo inaceptable. Esta herramienta de *Business Intelligence* consolida la telemetría bruta exportada desde Meta Business Suite y la transforma en un *dashboard* interactivo de alto rendimiento desarrollado enteramente en Python utilizando Streamlit y Plotly. Su implementación resultó crítica para el "Semillero Kairós", permitiendo identificar cuellos de botella en la administración de contenido y clarificando de manera irrefutable los embudos de conversión, la longevidad del contenido y las incidencias publicitarias. 
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/494c55dc-278a-4f06-8e97-108c5f124e88" width="750" autoplay loop muted playsinline></video>
-</div>
+![Instagram Dashboard Demo](https://github.com/user-attachments/assets/494c55dc-278a-4f06-8e97-108c5f124e88)
 
 Mediante el desarrollo de código reutilizable, gráficos de dispersión con líneas de tendencia de Mínimos Cuadrados Ordinarios (`trendline="ols"`) y análisis de correlación temporal, se logró desagregar la información para diagnosticar patrones de posibles *shadowbans* y predecir los picos de éxito absoluto en las publicaciones (el "Prime Time"). El sistema aísla qué variables exactas y formatos de contenido correlacionan con altas tasas de conversión en *likes* y comentarios, transformando métricas vanidosas en inteligencia predictiva.
 
