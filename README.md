@@ -125,6 +125,10 @@ QUALIFY ROW_NUMBER() OVER(PARTITION BY DOCUMENTO ORDER BY FECHA_ACTUALIZACION DE
 ```
 <br>
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/bf276151-c6fd-4726-90d1-d4ed7ff1624b" width="750" autoplay loop muted playsinline></video>
+</div>
+
 ### [5. Pipeline de Ingesta y Gestión de Datos (Control de Periodización)](https://github.com/SGC140/Control_periodizacion_unificacion_DATA)
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-API-34A853?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=flat-square)
 
