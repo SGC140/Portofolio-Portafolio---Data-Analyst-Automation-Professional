@@ -88,6 +88,10 @@ repo.update_file(readme_path, commit_msg, english_readme, file_sha)
 
 Este proyecto transformó de manera radical la logística operativa territorial mediante el cálculo científico y la inteligencia espacial. El sistema extrae de forma ágil y automatizada, empleando *scrapers* dinámicos construidos con Selenium, la información crítica de dirección y contactabilidad de diversas entidades distritales de apoyo social (Casas de Juventud, Manzanas del Cuidado, etc.). Posteriormente, unifica esta data en un modelo matemático que calcula distancias geodésicas complejas para emparejar y asignar al equipo de colaboradores operativos con base en la proximidad geográfica estricta frente a las entidades. El impacto orgánico de este desarrollo permitió reactivar campañas de *networking* que presentaban cifras en descenso; al mitigar las ineficiencias de traslado y optimizar las rutas de los colaboradores, los picos promedio diarios de éxito en las campañas subieron de manera sostenida en un 80%.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e0de0c5f-1182-4182-8051-eda0dd520d7b" width="750" autoplay loop muted playsinline></video>
+</div>
+
 El diseño de la solución se despliega en una arquitectura moderna alojada en Hugging Face Spaces, lo que dinamiza el consumo de la herramienta a través de interfaces visuales interactivas generadas con Gradio y mapas cartográficos interactivos renderizados con Folium. Todo el procesamiento incorpora limitadores de tasa (`RateLimiter`) para el geocodificador de ArcGIS, garantizando la extracción precisa de coordenadas de latitud y longitud sin comprometer el baneo de las IPs de ejecución, lo que denota una comprensión profunda del diseño de sistemas seguros y tolerantes a fallos en ambientes de producción.
 
 ```python
